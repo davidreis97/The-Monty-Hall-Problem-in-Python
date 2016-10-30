@@ -14,6 +14,6 @@ According to the mathematical resolution of this problem, the end results of thi
 ```
 The swapping method won 66.66% of the time;
 The non-swapping method won 33.33% of the time;
-The sum of both results is 100.28%.
+The sum of both results is 100.00%.
 ```
 Obviously you'll almost certainly never get exactly these results, but if you run the program for enough iterations they shouldn't deviate more than 0.1% from the mathematically accurate results.
